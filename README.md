@@ -1,5 +1,7 @@
 # 💫 Hey there!
-👋 I’m Connor<br>🏠 I’m from Ellesmere Port, Cheshire<br>🤝 Aspiring Software Engineer, specialising in back-end systems.<br>🌱 I’m currently learning front-end and Go.<br>🧑‍🎓 Computer Science Graduate @ Liverpool John Moores University
+👋 I’m Connor<br>🏠 I’m from Ellesmere Port, Cheshire<br>🤝 Aspiring Software Engineer, specialising in back-end systems.<br>🌱 I’m currently learning front-end and Go.<br>🧑‍🎓 Computer Science Graduate @ Liverpool John Moores University 
+
+Currently working on a league match history app via the use of RIOT API. [Visit Repo](https://github.com/condog220/LeagueMastery)
 
 
 ## 🌐 Socials:
